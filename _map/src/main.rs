@@ -66,6 +66,4 @@ fn main() {
     } // Mutable reference count goes out of scope here and is no longer valid.
 
     println!("{:?}", map);
-
-
 }
